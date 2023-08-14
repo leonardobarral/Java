@@ -1,0 +1,24 @@
+Estrutura Básica de back-end Java
+> Controllers
+Classes que lidam com as requisições Http
+
+> Services
+Classes que aplicão as regras de negócio.
+
+> Repositories
+Classes de comunicação com o banco de dados
+
+> Models
+Classes de negócio
+
+
+Main
+	Controler
+		Service 
+			Repositorie
+		Service
+	Controller
+
+
+Professor, porque aqui no main, você define duas vezes a classe;
+
